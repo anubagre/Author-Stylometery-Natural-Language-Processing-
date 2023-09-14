@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 12 09:52:50 2023
-@author: HP
-"""
+
 import nltk
 
 #Stylometry - Natural Language Processing
